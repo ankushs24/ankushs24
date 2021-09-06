@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ankush
 - 👀 I’m interested in coding 
-- 💞️ I’m looking to collaborate on C++
+- 💞️ I’m looking to collaborate on Open Source
 - 📫 How to reach me ankushsahil45@gmail.com
 
 
