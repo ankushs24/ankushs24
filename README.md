@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankushsingh24&label=Profile%20views&color=0e75b6&style=flat" alt="ankushsingh24" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankushsingh24" alt="ankushsingh24" /></a> </p>
-
 - 🔭 I’m currently working on [Marvel Website](https://github.com/ankushsingh24/Marvel)
 
 - 🌱 I’m currently learning **Django**
