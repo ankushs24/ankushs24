@@ -29,7 +29,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankushsingh24&show_icons=true&locale=en&layout=compact" alt="ankushsingh24" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankushsingh24&show_icons=true&locale=en" alt="ankushsingh24" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ankushsingh24&show_icons=true&locale=en" alt="ankushsingh24" /></p>
 
 <!---
 ankushs24/ankushs24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
