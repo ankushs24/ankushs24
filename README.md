@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ankush</h1>
-<img align='right' src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" width="300">
 
 <h3 align="center">A passionate frontend developer from India</h3>
+
+<img align='right' src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" width="300">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankushsingh24&label=Profile%20views&color=0e75b6&style=flat" alt="ankushsingh24" /> </p>
 
