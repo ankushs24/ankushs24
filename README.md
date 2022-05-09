@@ -4,7 +4,10 @@
 
 <img align='right' src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" width="300">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankushsingh24&label=Profile%20views&color=0e75b6&style=flat" alt="ankushsingh24" /> </p>
+<p align="left"> <a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=ankushsingh24"></a> </p>
+
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankushsingh24&label=Profile%20views&color=0e75b6&style=flat" alt="c" /> </p> -->
 
 - 🔭 I’m currently working on [Marvel Website](https://github.com/ankushsingh24/Marvel)
 
