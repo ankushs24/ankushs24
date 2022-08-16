@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN Development**
 
-- 👨‍💻 All of my projects are available at [https://ankush-singh.vercel.app/](https://ankush-singh.vercel.app/work)
+- 👨‍💻 All of my projects are available at [https://ankush-singh.vercel.app/work](https://ankush-singh.vercel.app/work)
 
 - 📝 I regularly write articles on [https://ankushs24.blogspot.com/](https://ankushs24.blogspot.com/)
 
