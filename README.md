@@ -5,9 +5,9 @@
 
 <img align='right' src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" width="300">
 
-- 🔭 I’m currently working on [Marvel Website](https://github.com/ankushsingh24/Marvel)
+- 🔭 I’m currently working in [**Newgen**](https://newgensoft.com/)
 
-- 🌱 I’m currently learning advanced **MERN Development**
+- 🌱 I’m currently learning advanced **JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://ankush-singh.vercel.app/work](https://ankush-singh.vercel.app/work)
 
